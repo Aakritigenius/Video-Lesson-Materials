@@ -4,6 +4,7 @@ I'm using this repo to keep track of supplemental content for my video lessons. 
 
 * captions
 * accompanying source code
+* FORKING USE OF THE CODE.
 * notes with links and other materials referenced in the videos
 * better video descriptions for vimeo or youtube pages
 
